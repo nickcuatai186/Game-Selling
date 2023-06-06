@@ -1,0 +1,5 @@
+Đăng ký thành công! 
+Cám ơn bạn đã đăng ký tài khoản!
+Đây là tên người dùng và mật khẩu của bạn:
+    username: <% UserName %>
+    password: <% Password %>
